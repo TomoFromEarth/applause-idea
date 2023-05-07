@@ -94,7 +94,7 @@
     transform: scale(3);
   }
   100% {
-    transform: translateY(-400px);
+    transform: translateY(-20rem);
     opacity: 0;
   }
 }
